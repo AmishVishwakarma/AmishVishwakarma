@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmishVishwakarma
-- 👀 I’m interested in Data managing
-- 🌱 I’m currently learning Data Science
+- 👀 I'm interested in roles like Data Scientist, Data Analyst and other data related streams
+- 🌱 I’m working as a software engineer
 - 💞️ I’m looking to collaborate on major data firms
 - 📫 How to reach me phn. no. 7068170481 and email- amishvansh@gmail.com
 
